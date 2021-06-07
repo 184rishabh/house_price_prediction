@@ -1,1 +1,1 @@
-machine learning model to predict house price
+Machine learning model to predict house price
